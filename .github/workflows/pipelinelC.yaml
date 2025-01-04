@@ -3,7 +3,7 @@ name: Workflow
 on:
   push:
     branches:
-      - master
+      - feature-clase1
 
 jobs:
   build:
